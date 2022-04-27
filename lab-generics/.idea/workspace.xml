@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d4d354b-e960-4196-b274-0feb395c779f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-generics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bnta/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bnta/_1/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bnta/_2/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bnta/_3/GenericInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bnta/_3/IntegerAndString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bnta/_3/StringAndInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/.idea/_6_lab_enums.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/.idea/libraries/Maven__org_assertj_assertj_core_3_22_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/lab-enums-todo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/src/main/java/org/example/_1_intro/Day.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/src/main/java/org/example/_2_basics/LogLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/src/main/java/org/example/_2_basics/Month.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/src/main/java/org/example/_2_basics/PizzaStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/src/main/java/org/example/_3_usage/EnumUsageExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/src/main/java/org/example/_4_props_and_methods/Day.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/src/main/java/org/example/_4_props_and_methods/LogLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/src/main/java/org/example/_5_experiment/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/src/test/java/org/example/_1_intro/Day.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/src/test/java/org/example/_2_basic/LogLevelTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/src/test/java/org/example/_2_basic/MonthTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/src/test/java/org/example/_2_basic/PizzaStatusTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/src/test/java/org/example/_3_usage/EnumUsageExamplesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_6_lab_enums/lab-enums-todo/src/test/java/org/example/_4_props_and_methods/LogLevelTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28OfaPe0OhCOSTDlLpqd8fnMe7c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.bnta.Main" />
+      <module name="lab-generics" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d4d354b-e960-4196-b274-0feb395c779f" name="Changes" comment="" />
+      <created>1651092618681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651092618681</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
